@@ -1,2 +1,6 @@
-# Csharp_Hesap_Makinesi
-C# ile hesap makinesi
+# C# ile Hesap Makinesi
+
+## Uygulama Görüntüsü 
+
+![hesapmakinesi](https://github.com/eraykisabacak/C-ile-Hesap-Makinesi/blob/master/hesap_makinesi.png)
+
